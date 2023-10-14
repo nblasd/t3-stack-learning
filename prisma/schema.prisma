@@ -19,7 +19,4 @@ model Example {
     @@index([name])
 }
 
-model Farasag {
-     id        Int      @id @default(autoincrement())
-    name  String
-}
+
